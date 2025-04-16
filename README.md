@@ -7,8 +7,8 @@ I'm a junior Computer Science major at George Mason University with a passion fo
 ## 🚀 What I've Worked On
 
 - iOS Budget Tracker App using **Swift** and **SwiftUI**
-- Built a cultural tourism app during my **London study abroad hackathon** — recommends landmarks & near by restaurants
-- SPA dashboard project from my internship at **AWS** – combining Java backend + React frontend
+- Built a cultural tourism app during my **London study abroad hackathon**: recommends landmarks & near by restaurants
+- SPA dashboard project from my internship at **AWS**: combining Java backend + React frontend
 - Continuing to grow ColorStack GMU as **Vice President**
 - Currently strengthening backend + mobile dev skills in my free time
 
